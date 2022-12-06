@@ -21,5 +21,4 @@ dependencies {
     implementation group: 'com.beust', name: 'jcommander', version: '1.82'
     implementation group: 'io.github.openfeign', name: 'feign-core', version: '12.1'
     implementation group: 'io.github.openfeign', name: 'feign-gson', version: '12.1'
-
 }
